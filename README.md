@@ -42,4 +42,7 @@ if (!Number(x)) {
  - Nếu dieuKien1 đúng (truthy) thì chạy code 1. Nếu dieuKien1 sai thì kiểm tra tiếp dieuKien2, nếu dieuKien2 đúng thì chạy code 2 còn không kiểm tra tiếp tục. Trường hợp tất cả dieuKien sai hết (falsy) thì không chạy code nào cả.
  - Để biết những giá trị nào truthy hay falsy các bạn có thể đọc thêm trên mạng
  - Ví dụ : if(một giá trị truthy) thì code của nó sẽ dươc thực thi, còn if(một giá trị falsy) thì code của nó không được thực thi.
+ - Vùng khoang đỏ là những dieuKien sai (falsy ) và code ở đó ko được thực hiện.
+ ![image](https://user-images.githubusercontent.com/53046415/88463741-388cc580-cedf-11ea-9058-877c782e79d5.png)
+
 
