@@ -26,6 +26,8 @@ if (!Number(x)) {
 - Giải thích sơ:
   - Nếu nhập vào 1 chuỗi '12 sài gòn' chẳng hạn,thì Number('12 sài gòn') trả về giá trị là NaN ( mang tính chất falsy ).Vậy !Number('12 sài gòn') trả về true ( mang tính chất truthy ).
   #### &rarr; Vậy nếu x = '12 sài gòn ' thì if(!Number(x)) sẽ trở thành mệnh đề đúng ( truthy ), thực thi code ngay bên dưới. 
+  ![image](https://user-images.githubusercontent.com/53046415/88463435-f5c9ee00-cedc-11ea-9d8f-9ab7ca5959a3.png)
   #### &rarr; Vậy nếu x = '12' thì if(!Number(x)) sẽ trở thành mệnh đề sai ( falsy ), ko thực thi code bên dưới mà nhảy xuống điều kiện kế tiếp. Ngược lại với cái trên.
+  
 
 
