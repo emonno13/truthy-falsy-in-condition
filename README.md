@@ -28,6 +28,18 @@ if (!Number(x)) {
   #### &rarr; Vậy nếu x = '12 sài gòn ' thì if(!Number(x)) sẽ trở thành mệnh đề đúng ( truthy ), thực thi code ngay bên dưới. 
   ![image](https://user-images.githubusercontent.com/53046415/88463435-f5c9ee00-cedc-11ea-9d8f-9ab7ca5959a3.png)
   #### &rarr; Vậy nếu x = '12' thì if(!Number(x)) sẽ trở thành mệnh đề sai ( falsy ), ko thực thi code bên dưới mà nhảy xuống điều kiện kế tiếp. Ngược lại với cái trên.
-  
+  ![image](https://user-images.githubusercontent.com/53046415/88463390-b7343380-cedc-11ea-9ab7-87304196c6fe.png)
 
+  #### Tóm lại
+  ```
+   if (dieuKien1) {
+        // code 1
+    } else if (dieuKien2) {
+        // code 2
+    }
+    ...
+  ```
+ - Nếu dieuKien1 đúng (truthy) thì chạy code 1. Nếu dieuKien1 sai thì kiểm tra tiếp dieuKien2, nếu dieuKien2 đúng thì chạy code 2 còn không kiểm tra tiếp tục. Trường hợp tất cả dieuKien sai hết (falsy) thì không chạy code nào cả.
+ - Để biết những giá trị nào truthy hay falsy các bạn có thể đọc thêm trên mạng
+ - Ví dụ : if(một giá trị truthy) thì code của nó sẽ dươc thực thi, còn if(một giá trị falsy) thì code của nó không được thực thi.
 
