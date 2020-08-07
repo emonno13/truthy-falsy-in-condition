@@ -25,7 +25,7 @@
   { "SoGhe": 24, "TenGhe": "số 24", "Gia": 100, "TrangThai": false },
   { "SoGhe": 25, "TenGhe": "số 25", "Gia": 100, "TrangThai": false },
   { "SoGhe": 26, "TenGhe": "số 26", "Gia": 100, "TrangThai": false },
-  { "SoGhe": 27, "TenGhe": "số 27", "Gia": 100, "TrangThai": false },
+  { "SoGhe": 27, "TenGhe": "số 27", "Gia": 100, "TrangThai": true },
   { "SoGhe": 28, "TenGhe": "số 28", "Gia": 100, "TrangThai": false },
   { "SoGhe": 29, "TenGhe": "số 29", "Gia": 100, "TrangThai": false },
   { "SoGhe": 30, "TenGhe": "số 30", "Gia": 100, "TrangThai": true },
@@ -33,5 +33,5 @@
   { "SoGhe": 32, "TenGhe": "số 32", "Gia": 100, "TrangThai": false },
   { "SoGhe": 33, "TenGhe": "số 33", "Gia": 100, "TrangThai": false },
   { "SoGhe": 34, "TenGhe": "số 34", "Gia": 100, "TrangThai": false },
-  { "SoGhe": 35, "TenGhe": "số 35", "Gia": 100, "TrangThai": false }
+  { "SoGhe": 35, "TenGhe": "số 35", "Gia": 100, "TrangThai": true }
 ]
