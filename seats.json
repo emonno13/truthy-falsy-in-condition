@@ -5,7 +5,7 @@
   { "SoGhe": 4, "TenGhe": "số 4", "Gia": 100, "TrangThai": false },
   { "SoGhe": 5, "TenGhe": "số 5", "Gia": 100, "TrangThai": false },
   { "SoGhe": 6, "TenGhe": "số 6", "Gia": 100, "TrangThai": false },
-  { "SoGhe": 7, "TenGhe": "số 7", "Gia": 100, "TrangThai": false },
+  { "SoGhe": 7, "TenGhe": "số 7", "Gia": 100, "TrangThai": true },
   { "SoGhe": 8, "TenGhe": "số 7", "Gia": 100, "TrangThai": false },
   { "SoGhe": 9, "TenGhe": "số 9", "Gia": 100, "TrangThai": false },
   { "SoGhe": 10, "TenGhe": "số 10", "Gia": 100, "TrangThai": false },
